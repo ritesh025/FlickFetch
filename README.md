@@ -6,7 +6,7 @@ FlickFetch is a responsive and dynamic movie discovery web app built with **HTML
 This project allows users to explore popular and trending movies, filter by genres, search for movies, and view full movie details — all within a single page.
 
 
-🔗 Live Site: flick-fetch-ff.vercel.app
+🔗 Live Site: ([flick-fetch-ff.vercel.app](https://flick-fetch-ff.vercel.app/))
 ## 🌟Features
 - 🔎 **Movie Search** – Find movies by title.  
 - 🎥 **Popular & Trending Sections** – Toggle easily between popular and trending movies.  
