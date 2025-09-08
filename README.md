@@ -16,12 +16,15 @@ This project allows users to explore popular and trending movies, filter by genr
 - 🎨 **Responsive Design** – Built with Tailwind CSS for clean and flexible layouts.  
 - 🎞️ **Smooth Hover Effects** – Interactive movie posters.  
 - 🔄 **Load More with Spinner** – Pagination with loading animation.  
-- ⚡ **Static Frontend** – No backend required, works locally.  
+- ⚡ **Static Frontend** – No backend required, works locally.
+
+  
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, Tailwind CSS, JavaScript  
 - **API:** [TMDb API](https://developers.themoviedb.org/)  
 - **Icons:** [Lucide](https://lucide.dev/) / Heroicons  
-- **Styling:** Tailwind (with gradients & hover transitions)  
+- **Styling:** Tailwind (with gradients & hover transitions)
+- Note - Use your own API key from TMDB API.
 ## 🤝Contributing
 
 We welcome contributions! If you would like to improve GamlyX, feel free to fork the repository, create a feature branch, and submit a pull request.
